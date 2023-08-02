@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "220072697173",
+    "project_id": "bikers-garage-3641a",
+    "storage_bucket": "bikers-garage-3641a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220072697173:android:58d13dbf0300d8162723dc",
+        "android_client_info": {
+          "package_name": "com.example.bikers_garage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220072697173-b7crdap8pu0csvlpvgfikv3tus2gpqv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJ0Nxit-Eq_XtRnr71w-tkyO6uW3EYHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220072697173-b7crdap8pu0csvlpvgfikv3tus2gpqv1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "220072697173-uisljm0thbma48on24guc56qu30dt9hl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bikersGarage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
